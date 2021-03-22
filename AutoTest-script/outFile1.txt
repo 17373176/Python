@@ -1,0 +1,196 @@
+Ok, path id is 1.
+Failed, node id not exist.
+No.
+Yes.
+Failed, path id not exist.
+Ok, length is 3.
+Failed, path id not exist.
+Ok, distinct node count is 16.
+Ok, distinct node count is 16.
+No.
+Failed, path id not exist.
+Ok, distinct node count is 16.
+Failed, path id not exist.
+Ok, length is 1.
+Failed, node id not exist.
+Failed, path id not exist.
+Failed, path id not exist.
+Ok, distinct node count is 16.
+Ok, distinct node count is 16.
+No.
+Ok, distinct node count is 16.
+Ok, distinct node count of path is 16.
+Yes.
+Failed, path id not exist.
+No.
+Failed, path id not exist.
+Failed, path id not exist.
+No.
+Failed, node id not exist.
+Failed, path id not exist.
+No.
+Yes.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, path id not exist.
+Yes.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, path id not exist.
+Failed, node id not exist.
+No.
+No.
+Ok, distinct node count is 16.
+Failed, node id not exist.
+Failed, path id not exist.
+Failed, path not exist.
+Ok, distinct node count of path is 16.
+No.
+Ok, distinct node count is 16.
+Failed, path not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Yes.
+No.
+Failed, node id not exist.
+Ok, distinct node count of path is 16.
+Failed, node id not exist.
+Failed, path id not exist.
+Ok, distinct node count is 16.
+Ok, distinct node count is 16.
+Total count is 1.
+No.
+Failed, path id not exist.
+Ok, distinct node count of path is 16.
+No.
+Failed, node id not exist.
+No.
+Yes.
+Ok, path id is 2.
+Failed, path id not exist.
+Failed, path id not exist.
+Failed, path id not exist.
+No.
+No.
+Ok, distinct node count is 30.
+Ok, length is 7.
+Failed, node id not exist.
+No.
+Failed, path id not exist.
+Ok, distinct node count of path is 15.
+Ok, distinct node count is 30.
+Total count is 2.
+Ok, path is (91, -54, -10, -34, 33, -69, 73, -68, -100, -55, 50, -6, -47, -80, -60, -15, 50).
+Failed, node id not exist.
+No.
+Failed, path not exist.
+Yes.
+Ok, length is 10.
+Yes.
+Ok, distinct node count is 30.
+Failed, path not exist.
+Yes.
+Total count is 2.
+Ok, distinct node count is 30.
+Ok, distinct node count is 30.
+Failed, path id not exist.
+Ok, distinct node count is 30.
+Failed, node id not exist.
+Failed, path id not exist.
+Ok, distinct node count is 30.
+Ok, distinct node count is 30.
+Yes.
+Failed, path not exist.
+Failed, path id not exist.
+Failed, path not exist.
+Failed, path not exist.
+Failed, path id not exist.
+Ok, distinct node count is 30.
+Ok, distinct node count of path is 15.
+Ok, path size is 17.
+Ok, distinct node count is 30.
+No.
+Yes.
+Failed, path id not exist.
+Failed, node id not exist.
+No.
+Ok, distinct node count of path is 16.
+Ok, path id is 3.
+Ok, path 1 is less than 3.
+Failed, path id not exist.
+Failed, path not exist.
+Yes.
+Ok, length is 10.
+Failed, node id not exist.
+Ok, distinct node count of path is 16.
+Failed, path id not exist.
+Ok, path size is 17.
+No.
+Failed, node id not exist.
+Ok, path size is 17.
+Failed, path not exist.
+Ok, distinct node count of path is 16.
+No.
+Ok, distinct node count of path is 16.
+Ok, distinct node count is 42.
+Ok, distinct node count is 42.
+Ok, path is (94, 84, 54, 21, -76, 7, 34, -89, 41, -34, -92, -50, 34, 89, 92, -22, 92).
+Ok, distinct node count of path is 16.
+Ok, distinct node count of path is 15.
+Total count is 3.
+Ok, distinct node count of path is 16.
+No.
+Yes.
+Ok, distinct node count is 42.
+Failed, path id not exist.
+No.
+Failed, node id not exist.
+Ok, path size is 17.
+Ok, length is 6.
+Ok, distinct node count is 42.
+Yes.
+Failed, node id not exist.
+Ok, path is (94, 84, 54, 21, -76, 7, 34, -89, 41, -34, -92, -50, 34, 89, 92, -22, 92).
+No.
+Yes.
+Total count is 3.
+No.
+Failed, path id not exist.
+Ok, path is (94, 84, 54, 21, -76, 7, 34, -89, 41, -34, -92, -50, 34, 89, 92, -22, 92).
+Failed, path id not exist.
+Ok, path size is 17.
+Yes.
+Ok, distinct node count is 42.
+Ok, distinct node count of path is 15.
+Yes.
+Yes.
+No.
+Yes.
+No.
+Ok, distinct node count of path is 15.
+Yes.
+Ok, distinct node count is 42.
+Ok, distinct node count is 42.
+Total count is 3.
+Ok, distinct node count is 42.
+Total count is 3.
+Ok, length is 6.
+Yes.
+Yes.
+Failed, path id not exist.
+Yes.
+Failed, path id not exist.
+Failed, path id not exist.
+Total count is 3.
+Ok, distinct node count is 42.
+Failed, node id not exist.
+No.
+Ok, distinct node count is 42.
+Total count is 3.
+No.
+Yes.
+Total count is 3.
+Yes.
+Failed, node id not exist.
+Ok, distinct node count of pa
