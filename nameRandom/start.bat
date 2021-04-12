@@ -1,0 +1,1 @@
+start "" "./nameRandom.exe"
